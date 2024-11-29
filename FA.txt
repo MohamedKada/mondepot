@@ -1,7 +1,7 @@
 Bonjour Jafar
 <<<<<<< HEAD
 
-Conflit
+Conflit Mohamed
 =======
 Au revoir Mohamed
 >>>>>>> 0d3e48a3b4085cc2830fa580cd662bfcd94067b7
