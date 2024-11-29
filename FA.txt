@@ -1,3 +1,12 @@
 Bonjour Jafar
+<<<<<<< HEAD
 Au revoir Mohamed
 Conflit Mohamed
+=======
+<<<<<<< HEAD
+
+Conflit Mohamed
+=======
+Au revoir Mohamed
+>>>>>>> 0d3e48a3b4085cc2830fa580cd662bfcd94067b7
+>>>>>>> 25552594ac856c0eba802daa0a77a6e91fb7383a
